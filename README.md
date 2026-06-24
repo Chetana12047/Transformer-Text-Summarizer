@@ -95,7 +95,7 @@ Transformer-Text-Summarizer/
 
 Clone Repository
 
-git clone https://github.com/your-username/transformer-text-summarizer.git
+git clone https://github.com/Chetana12047/Transformer-Text-Summarizer.git
 
 Navigate to Project Folder
 
